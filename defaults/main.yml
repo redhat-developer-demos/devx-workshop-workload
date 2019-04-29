@@ -1,0 +1,9 @@
+---
+become_override: False
+ocp_username: opentlc-mgr
+default_dev_password: "secrH4t!"
+workshop_users_max: 176
+password_file: "./userpass"
+silent: False
+gen_htpasswd_file: False
+htpasswd_secret_name:" htpass-secret"

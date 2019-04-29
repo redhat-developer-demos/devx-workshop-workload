@@ -1,0 +1,4 @@
+---
+- name: post_workload Tasks Complete
+  debug:
+    msg: "Pre-Software checks completed successfully - Removed"
